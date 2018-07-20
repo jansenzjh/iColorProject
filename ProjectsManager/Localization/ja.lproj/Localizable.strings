@@ -1,0 +1,100 @@
+/*
+ Localizable.strings
+ ProjectsManager
+ 
+ Created by Jansen on 1/5/13.
+ Copyright (c) 2013 Jansen. All rights reserved.
+ */
+"project name" = "プロジェクト名前";
+"project description" = "プロジェクト紹介";
+"priority" = "優先";
+"type" = "タイプ";
+"time need" = "必要時間";
+"weeks" = "週";
+"days" = "日";
+"hours" = "時間";
+"minutes" = "分";
+"due date" = "締め切り時間";
+"time spent" = "利用した時間";
+"time clock" = "出勤サイン";
+"clock status in" = "チェックイン";
+"clock status out" = "チェックアウト";
+"days left" = "残り時間";
+"invalid info" = "情報記入";
+"duplicate error" = "重複エラー";
+"cancel comfrim" = "キャンセルしますか？入力した資料が保存できません。";
+"back to edit" = "編集を戻る";
+"cancel this edit" = "編集をキャンセル";
+
+
+//project dropdown
+"personal" = "個人";
+"family" = "家庭";
+"friend" = "友達";
+"work" = "仕事";
+"group" = "団体";
+"physical" = "フィジカル";
+"spiritual" = "思想";
+
+"new project" = "新しいプロジェクト";
+"reload" = "リフレッシュ";
+"please select" = "選択";
+"detail" = "詳細";
+"todo list button" = "タスク増加";
+"add doc button" = "文書増加";
+"add budget button" = "予算編集";
+"btn add preset todo" = "プリセットタスクリストに増加";
+"btn add todo" = "タスクリストに増加";
+"btn isFinish" = "完成";
+"btn isFinished" = "完成!";
+"txt todo" = "タスク入力";
+"txt preset todo" = "プリセットタスク入力";
+"lbl task priority" = "タスク優先";
+"lbl estTime" = "約";
+"lbl estTime unit" = "時間";
+"prompt clock out" = "備考";
+"cancel" = "キャンセル";
+"ok" = "確定";
+"back" = "戻る";
+"email error title" = "メールタイトルエラー";
+"email error message" = "メールを送信できません。せめて一つメールアカウントをご確認ください。";
+
+//dropbox
+"retriveing data" = "データ獲得中...";
+"file downloaded" = "ダウンロード完了！";
+"msg file downloaded" = "文書のダウンロードが完了した。";
+"done" = "完成";
+"warning" = "警告!";
+"msg warn" = "本アプリはまだDropboxのサーバに接続されていません，開発者にご連絡ください";
+"note" = "注意";
+"msg note" = "資料が既に保存している。";
+"folder" = "フォルダ";
+
+//export and delete
+"backup" = "バックアップ";
+"export" = "エクスポート";
+"title delete comfirm" = "名前をキャンセルしますか？";
+"comfrim delete all" = "はい、キャンセルします。";
+"title export project" = "どんな形でプロジェクトをエクスポートしますか？";
+"email" = "メール";
+"text and email" = "添付でメール送信";
+"pdf and email" = "PDF形でメール送信";
+"pdf to dropbox" = "PDF形でDropboxに";
+"todo list" = "タスクリスト";
+"est time need" = "予測時間";
+"(finished)" = "(完了)";
+
+"from" = "から";
+"to" = "まで";
+"memo" = "メモ";
+"start date" = "開始時間";
+"report date" = "報告時間";
+"email subject" = "報告";
+"email with attach body" = "プロジェクトは添付に有った。";
+
+"task number" = "タスク数";
+"task total hour" = "タスク時間合計";
+
+//Notifications
+"notif body" = "明日有るプロジェクトの締切り日";
+"reminder" = "通知";

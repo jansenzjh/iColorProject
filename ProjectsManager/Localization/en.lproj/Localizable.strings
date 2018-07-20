@@ -1,0 +1,112 @@
+/* 
+  Localizable.strings
+  ProjectsManager
+
+  Created by Jansen on 1/5/13.
+  Copyright (c) 2013 Jansen. All rights reserved.
+*/
+"project name" = "Project Name";
+"project description" = "Project Description";
+"priority" = "Priority";
+"type" = "Type";
+"time need" = "Time Need";
+"weeks" = "Weeks";
+"days" = "Days";
+"hours" = "Hours";
+"minutes" = "Minutes";
+"due date" = "Due Date";
+"time spent" = "Time Spent";
+"time clock" = "Time Clock";
+"clock status in" = "Clock In";
+"clock status out" = "Clock Out";
+"days left" = "Days Left";
+"invalid info" = "Please Enter Valid Information!";
+"duplicate error" = "Duplicate Project or Task Name!";
+"cancel comfrim" = "You sure you want to cancel? Everything will not be saved";
+"back to edit" = "Back to Edit";
+"cancel this edit" = "Cancel This Edit";
+
+
+//project dropdown
+"personal" = "Personal";
+"family" = "Family";
+"friend" = "Friend";
+"work" = "Work";
+"group" = "Group";
+"physical" = "Physical";
+"spiritual" = "Spiritual";
+
+"new project" = "New Project";
+"reload" = "Reload";
+"please select" = "Please Select";
+"detail" = "Detail";
+"todo list button" = "Add Tasks To Todo List";
+"add doc button" = "Add Documents";
+"add budget button" = "Edit Budgets";
+"btn add preset todo" = "Add to Preset Task List";
+"btn add todo" = "Add to Todo List";
+"btn isFinish" = "Finish";
+"btn isFinished" = "Finished!";
+"txt todo" = "Task to Todo List";
+"txt preset todo" = "Task to Preset Tasks List";
+"lbl task priority" = "Task Priority";
+"lbl estTime" = "EST.";
+"lbl estTime unit" = "Hours";
+"prompt clock out" = "(Optional)Please enter a memo for this time period";
+"cancel" = "Cancel";
+"ok" = "OK";
+"back" = "Back";
+"email error title" = "Oops!";
+"email error message" = "You can't send an email right now. Make sure your device has an Internet connection and you have at least one email account setup.";
+
+//dropbox
+"retriveing data" = "Retrieving Data...";
+"file downloaded" = "File Downloaded";
+"msg file downloaded" = "The Selected file has been downloaded and added to the documents folder.";
+"done" = "Done";
+"warning" = "Warning!";
+"msg warn" = "This application is not linked to your Dropbox account.";
+"note" = "Note";
+"msg note" = "That file was already downloaded. It exists locally.";
+"folder" = "Folder";
+
+//export and delete
+"backup" = "Backup";
+"export" = "Export";
+"title delete comfirm" = "Are You Sure?";
+"comfrim delete all" = "YES, DELETE THIS PROJECT";
+"title export project" = "How Do You Want to Export?";
+"email" = "Email";
+"text and email" = "Text and Email";
+"pdf and email" = "PDF and Email";
+"pdf to dropbox" = "PDF to Dropbox";
+"todo list" = "Todo List";
+"est time need" = "Est. Time Need";
+"(finished)" = "(Finished)";
+
+"from" = "From";
+"to" = "To";
+"memo" = "Memo";
+"start date" = "Start Date";
+"report date" = "Report Date";
+"email subject" = "Report";
+"email with attach body" = "Your project has been exported to the attachment.";
+
+"task number" = "Tasks";
+"task total hour" = "Total Tasks";
+
+//Notifications
+"notif body" = "Tomorrow will be the due day of a project.";
+"detail" = "Detail";
+"reminder" = "Reminder";
+"" = "";
+"" = "";
+"" = "";
+
+//1.1.2
+"lbl web save" = "Webpage will be saved in project document section as print style.";
+"select project" = "Please select project";
+"camera" = "Camera";
+"photo library" = "Photo Library";
+"import map" = "Import Map";
+"what would you like to import" = "What would you like to import?";

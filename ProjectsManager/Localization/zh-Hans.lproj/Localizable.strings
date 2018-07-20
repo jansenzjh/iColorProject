@@ -1,0 +1,100 @@
+/*
+ Localizable.strings
+ ProjectsManager
+ 
+ Created by Jansen on 1/5/13.
+ Copyright (c) 2013 Jansen. All rights reserved.
+ */
+"project name" = "项目名称";
+"project description" = "项目介绍";
+"priority" = "优先级";
+"type" = "类别";
+"time need" = "所需时间";
+"weeks" = "星期";
+"days" = "日";
+"hours" = "小时";
+"minutes" = "分钟";
+"due date" = "截止日期";
+"time spent" = "以用时间";
+"time clock" = "签到";
+"clock status in" = "签入";
+"clock status out" = "签出";
+"days left" = "剩下天数";
+"invalid info" = "请填入必要的资料!";
+"duplicate error" = "重复项目或重复任务!";
+"cancel comfrim" = "您确定要取消？所有已输入资料不会被保存。";
+"back to edit" = "返回编辑";
+"cancel this edit" = "取消本次编辑";
+
+
+//project dropdown
+"personal" = "个人";
+"family" = "家庭";
+"friend" = "朋友";
+"work" = "工作";
+"group" = "团队";
+"physical" = "运动";
+"spiritual" = "思考";
+
+"new project" = "新项目";
+"reload" = "刷新";
+"please select" = "请选择";
+"detail" = "详细";
+"todo list button" = "添加任务到任务清单";
+"add doc button" = "添加文档";
+"add budget button" = "编辑预算";
+"btn add preset todo" = "添加至预设任务列表";
+"btn add todo" = "添加至任务清单";
+"btn isFinish" = "完成";
+"btn isFinished" = "完成!";
+"txt todo" = "请填写任务";
+"txt preset todo" = "请填写预设任务";
+"lbl task priority" = "任务优先级";
+"lbl estTime" = "大概";
+"lbl estTime unit" = "小时";
+"prompt clock out" = "(选填)请为这次签入填写备忘录";
+"cancel" = "取消";
+"ok" = "确定";
+"back" = "返回";
+"email error title" = "糟糕!";
+"email error message" = "您现在不能发送邮件。请先确认您的设备设有至少一个邮箱账号。";
+
+//dropbox
+"retriveing data" = "获取数据中...";
+"file downloaded" = "下载完毕！";
+"msg file downloaded" = "您想要的文件已经下载。";
+"done" = "完成";
+"warning" = "警告!";
+"msg warn" = "本软件还没有连接到dropbox服务器，请与本软件开发者联系";
+"note" = "注意";
+"msg note" = "您想要下载的文件已经存在您的设备里面了。";
+"folder" = "文件夹";
+
+//export and delete
+"backup" = "备份";
+"export" = "导出";
+"title delete comfirm" = "您确定?";
+"comfrim delete all" = "是的，我要删除";
+"title export project" = "您想怎要导出项目?";
+"email" = "邮件形式";
+"text and email" = "附件至邮件发送";
+"pdf and email" = "PDF至邮件发送";
+"pdf to dropbox" = "PDF至Dropbox";
+"todo list" = "任务清单";
+"est time need" = "预计需要时间";
+"(finished)" = "(完成)";
+
+"from" = "从";
+"to" = "到";
+"memo" = "备忘";
+"start date" = "开始日期";
+"report date" = "报告时间";
+"email subject" = "报告";
+"email with attach body" = "您的项目已经存在附件中.";
+
+"task number" = "任务数";
+"task total hour" = "任务总时间";
+
+//Notifications
+"notif body" = "明天您有一个项目要截止";
+"reminder" = "提醒";

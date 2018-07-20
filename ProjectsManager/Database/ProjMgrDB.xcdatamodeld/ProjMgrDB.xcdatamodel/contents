@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1811" systemVersion="12C2034" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Budget" representedClassName="Budget" syncable="YES">
+        <attribute name="amount" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="projName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeAdd" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="Documents" representedClassName="Documents" syncable="YES">
+        <attribute name="file" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="projName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeAdd" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="PresetNote" representedClassName="PresetNote" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PresetTask" representedClassName="PresetTask" syncable="YES">
+        <attribute name="addDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ProjectNote" representedClassName="ProjectNote" syncable="YES">
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="projName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeAdd" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="timeModified" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="Projects" representedClassName="Projects" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isFinished" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="priority" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="projDueDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="projModifiedDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="projStartDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="timeNeedText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeNeedValue" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TimeClock" representedClassName="TimeClock" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="end" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="projName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="start" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="TodoList" representedClassName="TodoList" syncable="YES">
+        <attribute name="addDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="estTime" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="isFinished" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="priority" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="projName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TodoListTimeClock" representedClassName="TodoListTimeClock" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="endDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="taskName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Budget" positionX="63" positionY="306" width="128" height="105"/>
+        <element name="Documents" positionX="405" positionY="144" width="128" height="105"/>
+        <element name="PresetNote" positionX="403" positionY="276" width="128" height="75"/>
+        <element name="PresetTask" positionX="160" positionY="192" width="128" height="75"/>
+        <element name="Projects" positionX="250" positionY="246" width="128" height="208"/>
+        <element name="TimeClock" positionX="250" positionY="108" width="128" height="105"/>
+        <element name="TodoList" positionX="63" positionY="180" width="128" height="150"/>
+        <element name="TodoListTimeClock" positionX="160" positionY="192" width="128" height="105"/>
+        <element name="ProjectNote" positionX="160" positionY="192" width="128" height="105"/>
+    </elements>
+</model>
